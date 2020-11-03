@@ -1,2 +1,3 @@
 # Technical-Test-DOT
-OOP PHP
+
+This is for technical test Junior QA Engineer in PT. DOT Indonesia. Thank you.
